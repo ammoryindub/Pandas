@@ -1,3 +1,3 @@
 # Pandas
 
-Pandas exercies
+Pandas exercises
