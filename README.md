@@ -11,4 +11,4 @@ files are associated with Pandas Exercise 01
 The 'salaries.csv' file is associated with Pandas Exercise 02.
 
 
-Ecommerce.csv is related to Pandas Exercise 03
+The 'Ecommerce.csv' file is associated with Pandas Exercise 03
