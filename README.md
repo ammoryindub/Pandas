@@ -15,31 +15,11 @@ The 'Ecommerce.csv' file is associated with Pandas Exercise 03
 
 
 ### Pandas Exercise 01
-- importing the libraries we need to work with
+- importing libraries
 
 - CSV file
 
-
-
-df = pd.read_csv('example.csv')
-df
-Username; Identifier;First name;Last name
-0	booker12;9012;Rachel;Booker
-1	grey07;2070;Laura;Grey
-2	johnson81;4081;Craig;Johnson
-3	jenkins46;9346;Mary;Jenkins
-4	smith79;5079;Jamie;Smith
-# csv output
-
-df.to_csv('example',index=False)
-df
-Username; Identifier;First name;Last name
-0	booker12;9012;Rachel;Booker
-1	grey07;2070;Laura;Grey
-2	johnson81;4081;Craig;Johnson
-3	jenkins46;9346;Mary;Jenkins
-4	smith79;5079;Jamie;Smith
-Excel file
+- Excel file
 # xls input  
 
 df = pd.read_excel('example.xls')
