@@ -14,19 +14,11 @@ The 'salaries.csv' file is associated with Pandas Exercise 02.
 The 'Ecommerce.csv' file is associated with Pandas Exercise 03
 
 
-###Pandas Exercise 01
+### Pandas Exercise 01
+- importing the libraries we need to work with
 
+- CSV file
 
-first steps on how to deal with dataframes is how to read them (import them), how to write your dataset to a file (export them), we call them input, output methods
-
-There are variety of methods, but will highlighting the most important or commonly used methods that are relevant for practical data manipulation and analysis tasks.
-
-# starting with importing the libraries we need to work with
-
-import numpy as np
-import pandas as pd
-CSV file
-# csv input 
 
 
 df = pd.read_csv('example.csv')
