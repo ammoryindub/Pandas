@@ -14,7 +14,7 @@ The 'salaries.csv' file is associated with Pandas Exercise 02.
 The 'Ecommerce.csv' file is associated with Pandas Exercise 03
 
 
-### Pandas Exercise 01
+### Pandas Exercise
 - importing libraries
 
 - CSV file
